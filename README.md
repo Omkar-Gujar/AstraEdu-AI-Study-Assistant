@@ -1,6 +1,4 @@
-# AstraEdu-AI-Study-Assistant
-AI-powered Study Assistant chatbot developed using Botpress to support SDG 4 (Quality Education) through study planning, exam preparation, goal setting, motivation, and learning guidance.
-
+# AstraEdu – AI Study Assistant
 
 ## SDG Goal
 
@@ -12,36 +10,36 @@ AstraEdu is an AI-powered Study Assistant developed using Botpress. The chatbot 
 
 ## Problem Statement
 
-Many students struggle with effective study planning, productivity, and academic guidance. Lack of structured support often affects learning outcomes and performance.
+Many students struggle with effective study planning, productivity, and academic guidance. Lack of structured support often affects learning outcomes and academic performance.
 
 ## Proposed Solution
 
-AstraEdu provides students with instant educational assistance through a conversational AI interface. It offers study schedules, exam preparation guidance, productivity techniques, and motivational support.
+AstraEdu provides instant educational assistance through a conversational AI interface. It helps students manage studies, prepare for exams, set goals, and stay motivated.
 
 ## Features
 
-- Study Planning
-- Exam Preparation
-- Time Management
-- Goal Setting
-- Motivation
-- Learning Tips
-- Fallback Response Handling
+* Study Planning
+* Exam Preparation
+* Time Management
+* Goal Setting
+* Motivation
+* Learning Tips
+* Fallback Response Handling
 
 ## Technology Stack
 
-- Botpress Cloud
-- Conversational AI
-- Natural Language Processing (NLP)
-- GitHub
+* Botpress Cloud
+* Conversational AI
+* Natural Language Processing (NLP)
+* GitHub
 
-## Repository Contents
+## Repository Structure
 
-- Botpress Export File (.bpz)
-- Project Documentation
-- Screenshots
-- Workflow Diagram
-- Source Configuration Files
+* Botpress Export File
+* Documentation
+* Flowchart
+* Screenshots
+* Prompt Configuration
 
 ## SDG Alignment
 
@@ -51,6 +49,6 @@ This project contributes to SDG 4 (Quality Education) by making educational guid
 
 Omkar Gujar
 
-## Project Status
+## Status
 
 Completed
